@@ -3,24 +3,24 @@ The project focuses on using SQL to analyze business data, extract insights, and
 
 Objectives
 
-Perform SQL queries on structured datasets
-Analyze customer and business data
-Generate actionable business insights
+Perform SQL queries on structured datasets,
+Analyze customer and business data, and
+Generate actionable business insights.
 
 Tools & Technologies
 
-SQL
+SQL/
 MySQL
 
 Key Skills Applied
 
-Fetching and filtering data
-Data Aggregation
-Joins and subqueries
-Window Functions
-Built-in Functions
-Data Manipulation Language
-Business analytics
+Fetching and filtering data,
+Data Aggregation,
+Joins and subqueries,
+Window Functions,
+Built-in Functions,
+Data Manipulation Language, and
+Business analytics.
 
 Project Outcome
 
