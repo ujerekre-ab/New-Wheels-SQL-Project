@@ -28,6 +28,4 @@ Analyze structured enterprise data across customer, inventory, transaction, and 
 * **Customer Behavior Segmentation:** Stratified the customer database by geographical purchase frequency, revealing high-density, untapped regional hubs ideal for localized marketing spend.
 * **Product Performance Analytics:** Calculated individual product-line velocity metrics, identifying high-margin automotive inventory segments that should be prioritized for stocking cycles. Average Days to Ship 
 
-## Repository Blueprint
-* **`Queries/`**: Organized production-ready `.sql` files containing clean, formatted, and fully commented script architectures.
-* **`Schema/`**: Logical database entity mapping files showcasing data typing, primary keys, and relational foreign constraints.
+
