@@ -52,14 +52,25 @@ Analyze structured enterprise data across customer, inventory, transaction, and 
 ## Which are the top 5 vehicle makers preferred by the customers?
 ### Solution Query:
 **SELECT**
+
 PT.VEHICLE_MAKER,
+
 COUNT(DISTINCT OT.CUSTOMER_ID) AS CUSTOMER_COUNT
+
 **FROM**
+
 product_t AS PT
+
 **JOIN**
+
 order_t AS OT ON PT.PRODUCT_ID = OT.PRODUCT_ID
+
 **GROUP BY**
+
 PT.VEHICLE_MAKER
+
 **ORDER BY**
+
 CUSTOMER_COUNT DESC
+
 **LIMIT 5**;
