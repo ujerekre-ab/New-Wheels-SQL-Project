@@ -48,7 +48,7 @@ Analyze structured enterprise data across customer, inventory, transaction, and 
 * **Customer Behavior Segmentation:** Stratified the customer database by geographical purchase frequency, revealing high-density, untapped regional hubs ideal for localized marketing spend.
 * **Product Performance Analytics:** Calculated individual product-line velocity metrics, identifying high-margin automotive inventory segments that should be prioritized for stocking cycles. Average Days to Ship 
 
-## Dashboard & Chart Previews
+## Dashboard Previews
 ### Which are the top 5 vehicle makers preferred by the customers?
 ### Sample Query:
 **SELECT**
